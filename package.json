@@ -1,0 +1,23 @@
+{
+  "name": "cache_search_simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/memory_gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/memory_gen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanPazRibeiro/cache_search_simulator.git"
+  },
+  "author": "Allan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanPazRibeiro/cache_search_simulator/issues"
+  },
+  "homepage": "https://github.com/AllanPazRibeiro/cache_search_simulator#readme",
+  "dependencies": {
+    "mathjs": "^6.0.2"
+  }
+}
